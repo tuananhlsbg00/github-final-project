@@ -19,4 +19,4 @@ The Simple Interest Calculator allows users to calculate the interest accrued ov
 ### Formula
 The formula used to calculate simple interest is:
 
-   simple interest = p*t*r
+   simple interest = p * t * r
